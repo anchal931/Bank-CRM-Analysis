@@ -70,7 +70,3 @@ This project focuses on customer data analysis for a bank using CRM data to unco
 
 ## 🔚 Conclusion
 This CRM analysis delivers a *data-driven view of customer behavior*, enabling banks to improve retention, enhance marketing, and grow customer lifetime value. By implementing churn models, segmenting customers, and focusing on high-value individuals, financial institutions can strengthen customer relationships and business outcomes.
-
----
-
-💡 For more details, refer to the presentation and dataset files. 🚀
