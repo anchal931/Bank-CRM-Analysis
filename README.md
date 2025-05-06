@@ -53,7 +53,7 @@ This project focuses on customer data analysis for a bank using CRM data to unco
 ## 📊 Dashboard & Visualizations
 
 ### Dashboard Preview
-![CRM Bank Dashboard](CRM_dashboard.png)
+![CRM Bank Dashboard](Bank_CRM_Report.png)
 
 - *Dynamic filters* for churn status, tenure range, product usage.
 - Visualizes *churn trends, CLV segments, campaign success, and customer demographics*.
